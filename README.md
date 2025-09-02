@@ -1,6 +1,6 @@
 # 🏋️ One-Arm Row Pose Tracking API
 
-This project is a **Flask-based backend service** that uses **OpenCV** and **MediaPipe** to track one-arm row exercises via a webcam.  
+This project is a **Flask-based backend service** that uses **OpenCV** and **MediaPipe** to track arm row exercises via a webcam.  
 It provides **real-time video streaming** with repetition counting, feedback on elbow position, and motivational messages.  
 
 ---
